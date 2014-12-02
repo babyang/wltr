@@ -1,0 +1,223 @@
++ data_dir=/home/zhiyuan/l2r/data/
++ test_date=20140910
++ test_source=/home/zhiyuan/l2r/data/20140910.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140910.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140910.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140910.clean '/home/zhiyuan/l2r/data/}20140910.gmv.target' /home/zhiyuan/l2r/data/20140910.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140911
++ test_source=/home/zhiyuan/l2r/data/20140911.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140911.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140911.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140911.clean '/home/zhiyuan/l2r/data/}20140911.gmv.target' /home/zhiyuan/l2r/data/20140911.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140912
++ test_source=/home/zhiyuan/l2r/data/20140912.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140912.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140912.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140912.clean '/home/zhiyuan/l2r/data/}20140912.gmv.target' /home/zhiyuan/l2r/data/20140912.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140913
++ test_source=/home/zhiyuan/l2r/data/20140913.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140913.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140913.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140913.clean '/home/zhiyuan/l2r/data/}20140913.gmv.target' /home/zhiyuan/l2r/data/20140913.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140914
++ test_source=/home/zhiyuan/l2r/data/20140914.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140914.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140914.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140914.clean '/home/zhiyuan/l2r/data/}20140914.gmv.target' /home/zhiyuan/l2r/data/20140914.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
+错误于file(file, "rt") : 无法打开链结
+Calls: optimize.target -> read.table -> file
+此外: 警告信息：
+In file(file, "rt") :
+  无法打开文件'/home/zhiyuan/l2r/data/20140914.clean': 没有那个文件或目录
+停止执行
++ test_date=20140915
++ test_source=/home/zhiyuan/l2r/data/20140915.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140915.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140915.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140915.clean '/home/zhiyuan/l2r/data/}20140915.gmv.target' /home/zhiyuan/l2r/data/20140915.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140916
++ test_source=/home/zhiyuan/l2r/data/20140916.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140916.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140916.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140916.clean '/home/zhiyuan/l2r/data/}20140916.gmv.target' /home/zhiyuan/l2r/data/20140916.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140917
++ test_source=/home/zhiyuan/l2r/data/20140917.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140917.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140917.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140917.clean '/home/zhiyuan/l2r/data/}20140917.gmv.target' /home/zhiyuan/l2r/data/20140917.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140918
++ test_source=/home/zhiyuan/l2r/data/20140918.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140918.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140918.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140918.clean '/home/zhiyuan/l2r/data/}20140918.gmv.target' /home/zhiyuan/l2r/data/20140918.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140919
++ test_source=/home/zhiyuan/l2r/data/20140919.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140919.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140919.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140919.clean '/home/zhiyuan/l2r/data/}20140919.gmv.target' /home/zhiyuan/l2r/data/20140919.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140920
++ test_source=/home/zhiyuan/l2r/data/20140920.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140920.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140920.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140920.clean '/home/zhiyuan/l2r/data/}20140920.gmv.target' /home/zhiyuan/l2r/data/20140920.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140921
++ test_source=/home/zhiyuan/l2r/data/20140921.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140921.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140921.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140921.clean '/home/zhiyuan/l2r/data/}20140921.gmv.target' /home/zhiyuan/l2r/data/20140921.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140922
++ test_source=/home/zhiyuan/l2r/data/20140922.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140922.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140922.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140922.clean '/home/zhiyuan/l2r/data/}20140922.gmv.target' /home/zhiyuan/l2r/data/20140922.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140923
++ test_source=/home/zhiyuan/l2r/data/20140923.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140923.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140923.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140923.clean '/home/zhiyuan/l2r/data/}20140923.gmv.target' /home/zhiyuan/l2r/data/20140923.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140924
++ test_source=/home/zhiyuan/l2r/data/20140924.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140924.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140924.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140924.clean '/home/zhiyuan/l2r/data/}20140924.gmv.target' /home/zhiyuan/l2r/data/20140924.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140925
++ test_source=/home/zhiyuan/l2r/data/20140925.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140925.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140925.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140925.clean '/home/zhiyuan/l2r/data/}20140925.gmv.target' /home/zhiyuan/l2r/data/20140925.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140926
++ test_source=/home/zhiyuan/l2r/data/20140926.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140926.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140926.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140926.clean '/home/zhiyuan/l2r/data/}20140926.gmv.target' /home/zhiyuan/l2r/data/20140926.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140927
++ test_source=/home/zhiyuan/l2r/data/20140927.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140927.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140927.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140927.clean '/home/zhiyuan/l2r/data/}20140927.gmv.target' /home/zhiyuan/l2r/data/20140927.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140928
++ test_source=/home/zhiyuan/l2r/data/20140928.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140928.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140928.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140928.clean '/home/zhiyuan/l2r/data/}20140928.gmv.target' /home/zhiyuan/l2r/data/20140928.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140929
++ test_source=/home/zhiyuan/l2r/data/20140929.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140929.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140929.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140929.clean '/home/zhiyuan/l2r/data/}20140929.gmv.target' /home/zhiyuan/l2r/data/20140929.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20140930
++ test_source=/home/zhiyuan/l2r/data/20140930.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20140930.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20140930.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20140930.clean '/home/zhiyuan/l2r/data/}20140930.gmv.target' /home/zhiyuan/l2r/data/20140930.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20141001
++ test_source=/home/zhiyuan/l2r/data/20141001.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20141001.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20141001.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20141001.clean '/home/zhiyuan/l2r/data/}20141001.gmv.target' /home/zhiyuan/l2r/data/20141001.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20141002
++ test_source=/home/zhiyuan/l2r/data/20141002.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20141002.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20141002.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20141002.clean '/home/zhiyuan/l2r/data/}20141002.gmv.target' /home/zhiyuan/l2r/data/20141002.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20141003
++ test_source=/home/zhiyuan/l2r/data/20141003.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20141003.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20141003.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20141003.clean '/home/zhiyuan/l2r/data/}20141003.gmv.target' /home/zhiyuan/l2r/data/20141003.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20141004
++ test_source=/home/zhiyuan/l2r/data/20141004.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20141004.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20141004.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20141004.clean '/home/zhiyuan/l2r/data/}20141004.gmv.target' /home/zhiyuan/l2r/data/20141004.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20141005
++ test_source=/home/zhiyuan/l2r/data/20141005.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20141005.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20141005.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20141005.clean '/home/zhiyuan/l2r/data/}20141005.gmv.target' /home/zhiyuan/l2r/data/20141005.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid
++ test_date=20141006
++ test_source=/home/zhiyuan/l2r/data/20141006.clean
++ test_gmv_target='/home/zhiyuan/l2r/data/}20141006.gmv.target'
++ test_click_target=/home/zhiyuan/l2r/data/20141006.click.target
++ /usr/local/bin/Rscript /home/zhiyuan/l2r/R/optimize.target.R /home/zhiyuan/l2r/data/20141006.clean '/home/zhiyuan/l2r/data/}20141006.gmv.target' /home/zhiyuan/l2r/data/20141006.click.target
+载入需要的程辑包：ggplot2
+载入需要的程辑包：methods
+载入需要的程辑包：grid

@@ -1,0 +1,3 @@
+cd /home/minxing/projects/zhiyuan/wltr; */5  * * * *   sh -x /home/minxing/projects/zhiyuan/wltr/rank_minxing.sh  >> /home/minxing/projects/zhiyuan/rank.log 2>&1
+cd /home/minxing/projects/zhiyuan/wltr; */45  * * * *   sh -x /home/minxing/projects/zhiyuan/wltr/generate_train_model_minxing.sh  >> /home/minxing/projects/zhiyuan/model.log 2>&1
+
